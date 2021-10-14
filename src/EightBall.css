@@ -1,0 +1,19 @@
+#ball {
+	margin: auto;
+	height: 40vh;
+	width: 40vh;
+	display: flex;
+	border-radius: 50%;
+}
+#ball:hover {
+	cursor: pointer;
+}
+
+.message {
+	color: white;
+	margin: auto;
+}
+
+#reset {
+	margin-top: 2vh;
+}
